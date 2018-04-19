@@ -12,6 +12,7 @@ Feel free to take advantage of the cheat sheets to learn new stuff and to have t
 
 #### Cheat sheets
 * [Vim](vim.md)
+* [Git](git.md)
 * [Bash](bash.md)
 * [Docker](docker.md)
 * [Kubernetes](kubernetes.md)
