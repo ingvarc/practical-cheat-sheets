@@ -174,3 +174,21 @@ gT or :tabprev or :tabp # move to the previous tab
 :tabonly or :tabo       # close all tabs except for the current one
 :tabdo command          # run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
 ```
+
+## Using the Vim tutor
+Instead of reading the text (boring!) you can use the vimtutor to learn your first Vim commands.  
+This is a 30 minute tutorial that teaches the most basic Vim functionality hands-on. 
+
+On Unix, if Vim has been properly installed, you can start it from the shell:
+```bash
+vimtutor
+```                            
+>This will make a copy of the tutor file, so that you can edit it without
+the risk of damaging the original.
+         
+There are a few translated versions of the tutor. To find out if yours is available, 
+use the two-letter language code. For French:
+```bash
+vimtutor fr
+```        
+>On Unix, if you prefer using the GUI version of Vim, use "gvimtutor" or "vimtutor -g" instead of "vimtutor".                             	
